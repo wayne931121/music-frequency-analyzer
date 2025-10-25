@@ -3,3 +3,12 @@ audio frequency analyzer in python
 
 # Demo
 https://github.com/wayne931121/music-frequency-analyzer/blob/main/aubio.ipynb
+
+# Reference
+https://stackoverflow.com/a/54621604/19470749
+
+# License
+
+reffer https://stackoverflow.com/a/54621604/19470749
+
+cc-by-sa-4.0
