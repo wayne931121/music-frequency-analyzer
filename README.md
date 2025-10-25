@@ -4,6 +4,8 @@ audio frequency analyzer in python
 # Demo
 https://github.com/wayne931121/music-frequency-analyzer/blob/main/aubio.ipynb
 
+(this file is run in colab)
+
 # Reference
 https://stackoverflow.com/a/54621604/19470749
 
