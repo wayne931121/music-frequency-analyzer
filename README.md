@@ -9,6 +9,10 @@ https://github.com/wayne931121/music-frequency-analyzer/blob/main/aubio.ipynb
 # Reference
 https://stackoverflow.com/a/54621604/19470749
 
+https://github.com/aubio/aubio/blob/master/python/demos/demo_pitch.py
+
+https://github.com/aubio/aubio/blob/master/python/demos/demo_waveform_plot.py
+
 # License
 
 reffer https://stackoverflow.com/a/54621604/19470749
