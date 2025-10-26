@@ -8,6 +8,8 @@ https://github.com/wayne931121/music-frequency-analyzer/blob/main/aubio.ipynb
 
 # Also See
 
+aubio_new.ipynb will export csv
+
 https://github.com/wayne931121/music-frequency-analyzer/blob/main/aubio_new.ipynb
 
 I find a useful tool:
