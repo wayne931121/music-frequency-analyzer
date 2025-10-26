@@ -1,10 +1,20 @@
 # music-frequency-analyzer
 audio frequency analyzer in python. detect single midi number and frequency by the time and frame.
 
-# Demo
-https://github.com/wayne931121/music-frequency-analyzer/blob/main/aubio.ipynb
+# Usage 
+```
+python aubio_condaforge_win11_x64.py a.wav
+```
 
-(this file is run in colab)
+# Demo
+https://github.com/wayne931121/music-frequency-analyzer/blob/main/aubio.ipynb (this file is run in colab)
+
+https://github.com/wayne931121/music-frequency-analyzer/blob/main/aubio_condaforge_win11_x64/aubio_condaforge_win11_x64.ipynb
+
+# Result
+
+<img alt="image" src="https://raw.githubusercontent.com/wayne931121/music-frequency-analyzer/refs/heads/main/aubio_condaforge_win11_x64/midi%20number%20by%20time%20-%20details.png" />
+<img alt="image" src="https://raw.githubusercontent.com/wayne931121/music-frequency-analyzer/refs/heads/main/aubio_condaforge_win11_x64/frequency%20by%20time%20-%20details.png" />
 
 # Also See
 
