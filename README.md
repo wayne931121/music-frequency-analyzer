@@ -1,5 +1,5 @@
 # music-frequency-analyzer
-audio frequency analyzer in python. detect single midi number and frequency by the time.
+audio frequency analyzer in python. detect single midi number and frequency by the time and frame.
 
 # Demo
 https://github.com/wayne931121/music-frequency-analyzer/blob/main/aubio.ipynb
