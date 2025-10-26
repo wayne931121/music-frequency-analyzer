@@ -9,10 +9,6 @@ python analyzer.py a.wav
 ```
 PS C:\Users\原神\Desktop\aubio_condaforge_win11_x64> dir
 
-
-    Directory: C:\Users\原神\Desktop\aubio_condaforge_win11_x64
-
-
 Mode                 LastWriteTime         Length Name
 ----                 -------------         ------ ----
 -a----        2025-10-26   6:52 PM         468241 frequency by frame.csv
