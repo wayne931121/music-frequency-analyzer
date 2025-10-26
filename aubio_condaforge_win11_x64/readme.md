@@ -8,4 +8,6 @@ conda install matplotlib
 conda install numpy
 jupyter notebook
 jupyter nbconvert --to script aubio_condaforge_win11_x64.ipynb
+conda export > aubio.yml
+python aubio_condaforge_win11_x64.py a.wav
 ```
