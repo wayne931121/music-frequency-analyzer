@@ -1,0 +1,11 @@
+```
+#miniforge conda win11 x64
+conda create --prefix C:\Users\TEST\aubio python=3.9.23
+conda activate C:\Users\TEST\aubio
+conda install aubio
+conda install notebook
+conda install matplotlib
+conda install numpy
+jupyter notebook
+jupyter nbconvert --to script aubio_condaforge_win11_x64.ipynb
+```
