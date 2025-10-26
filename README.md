@@ -5,6 +5,27 @@ audio frequency analyzer in python. detect single midi number and frequency by t
 ```
 python analyzer.py a.wav
 ```
+## The analyzer.py will generate the following files
+```
+PS C:\Users\原神\Desktop\aubio_condaforge_win11_x64> dir
+
+
+    Directory: C:\Users\原神\Desktop\aubio_condaforge_win11_x64
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        2025-10-26   6:52 PM         468241 frequency by frame.csv
+-a----        2025-10-26   6:52 PM          57084 frequency by frame.png
+-a----        2025-10-26   6:52 PM          84425 frequency by time - details.png
+-a----        2025-10-26   6:52 PM         479350 frequency by time.csv
+-a----        2025-10-26   6:52 PM          48445 frequency by time.png
+-a----        2025-10-26   6:52 PM         274301 midi by frame.csv
+-a----        2025-10-26   6:52 PM         285410 midi by time.csv
+-a----        2025-10-26   6:52 PM          57232 midi number by frame.png
+-a----        2025-10-26   6:52 PM          77311 midi number by time - details.png
+-a----        2025-10-26   6:52 PM          50897 midi number by time.png
+```
 
 # Demo
 https://github.com/wayne931121/music-frequency-analyzer/blob/main/aubio.ipynb (this file is run in colab)
