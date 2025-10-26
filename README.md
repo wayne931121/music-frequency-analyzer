@@ -3,7 +3,7 @@ audio frequency analyzer in python. detect single midi number and frequency by t
 
 # Usage 
 ```
-python aubio_condaforge_win11_x64.py a.wav
+python analyzer.py a.wav
 ```
 
 # Demo
