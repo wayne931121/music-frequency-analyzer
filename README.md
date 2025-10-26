@@ -29,7 +29,7 @@ https://github.com/wayne931121/music-frequency-analyzer/blob/main/aubio.ipynb (t
 https://github.com/wayne931121/music-frequency-analyzer/blob/main/aubio_condaforge_win11_x64/aubio_condaforge_win11_x64.ipynb
 
 # Result
-
+analyzer.py or aubio_condaforge_win11_x64.ipynb
 <img alt="image" src="https://raw.githubusercontent.com/wayne931121/music-frequency-analyzer/refs/heads/main/aubio_condaforge_win11_x64/midi%20number%20by%20time%20-%20details.png" />
 <img alt="image" src="https://raw.githubusercontent.com/wayne931121/music-frequency-analyzer/refs/heads/main/aubio_condaforge_win11_x64/frequency%20by%20time%20-%20details.png" />
 
